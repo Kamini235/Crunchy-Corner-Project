@@ -39,6 +39,7 @@ List the key technologies used to build the dashboard.
 Insight / Highlights
 
 Key questions such as: Which regions offer the most business? What is year to year percentage change in revenue? What is net revenue by category? How can we optimize our business? … are difficult to answer quickly with raw data.
+
 Goal of the Dashboard To deliver an interactive visual tool that enables users to get answer of above questions. Supports decisions such as Future planning, regional marketing, or infrastructure investment. Uncovers trends in Financial Performance Analysis, Business Optimization and Budgeting Analysis
 
 	Improved budget alignment and reduced overspending
